@@ -19,7 +19,7 @@ namespace Game
             Console.WriteLine("____________________________________________________________");
             Console.WriteLine("   Hello "+playerName+" Welcome to the card games world");
             Console.WriteLine("____________________________________________________________");
-            Console.WriteLine(" You Have 3 options to play in this game ");
+            Console.WriteLine(" You Have 4 options to play in this game ");
             Console.WriteLine("*********************************");
             Console.WriteLine("Enter 1 To Play a card");
             Console.WriteLine("Enter 2 To Shuffle your cards ");
